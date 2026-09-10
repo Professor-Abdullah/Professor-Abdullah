@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="./assets/chatgpt.gif" width="180" alt="ChatGPT coding GIF">
+<img src="https://github.com/Professor-Abdullah/Professor-Abdullah/blob/main/robot-ai.gif?raw=true" width="180" alt="ChatGPT coding GIF">
 
 # **Professor Abdullah**
 
