@@ -6,7 +6,7 @@
 -->
 <div align="center"><h1><strong>Professor Abdullah</strong></h1></div>
 
-<div align="center"><img src="https://github.com/Professor-Abdullah/Professor-Abdullah/blob/main/robot-ai.gif?raw=true" width="500" height="300" alt="ChatGPT coding GIF">
+<div align="center"><img src="https://github.com/Professor-Abdullah/Professor-Abdullah/blob/main/github.png?raw=true" width="500" height="300" alt="ChatGPT coding GIF">
 
 
 ### `Full-Stack AI Engineer · Future Tech Builder`
