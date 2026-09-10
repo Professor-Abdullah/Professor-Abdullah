@@ -4,12 +4,10 @@
 ║                 Full-Stack AI Engineer · Future Tech Builder               ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
+<div align="center"><h1><strong>Professor Abdullah</strong></h1></div>
 
-<div align="center">
+<div align="center"><img src="https://github.com/Professor-Abdullah/Professor-Abdullah/blob/main/robot-ai.gif?raw=true" width="500" height="300" alt="ChatGPT coding GIF">
 
-<img src="https://github.com/Professor-Abdullah/Professor-Abdullah/blob/main/robot-ai.gif?raw=true" width="180" alt="ChatGPT coding GIF">
-
-# **Professor Abdullah**
 
 ### `Full-Stack AI Engineer · Future Tech Builder`
 
@@ -34,7 +32,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+AI-powered+software.;Exploring+Machine+Learning+%26+Deep+Learning.;Growing+from+CS+fundamentals+to+production+systems.;Future+Tech+Builder+in+progress..." alt="Typing animation">
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Professor-Abdullah&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
 
@@ -51,13 +49,13 @@ Role        : Full-Stack AI Engineer / Future Tech Builder
 Education   : BS Computer Science
 University  : University of the Punjab, Lahore
 Timeline    : 2024 → 2028
-Focus       : AI/ML · Deep Learning · Software Engineering · Cybersecurity
+Focus       : AI/ML Engineer · Cybersecurity enthusiast
 Environment : Python · C/C++ · Web · Git/GitHub · VS Code · Linux
 ```
 
 > I am a **Computer Science student at the University of the Punjab** building my way toward full-stack AI engineering.
 >
-> My current journey sits at the intersection of **AI/ML, deep learning, software engineering, and cybersecurity**. I enjoy going beyond tutorials — understanding how systems work, turning ideas into working software, and continuously improving the engineering behind them.
+> My current journey sits at the intersection of **Full stack AI/ML Engineer, and cybersecurity Enthusiasts**. I enjoy going beyond tutorials : understanding how systems work, turning ideas into working software, and continuously improving the engineering behind them.
 >
 > **Long-term goal:** become the kind of engineer who can take an idea from **problem → model → software → product**.
 
