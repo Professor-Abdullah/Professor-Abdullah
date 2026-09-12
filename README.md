@@ -48,7 +48,6 @@ Alias       : Professor Abdullah
 Role        : Full-Stack AI Engineer / Future Tech Builder
 Education   : BS Computer Science
 University  : University of the Punjab, Lahore
-Timeline    : 2024 → 2028
 Focus       : AI/ML Engineer · Cybersecurity enthusiast
 Environment : Python · C/C++ · Web · Git/GitHub · VS Code · Linux
 ```
@@ -64,8 +63,6 @@ Environment : Python · C/C++ · Web · Git/GitHub · VS Code · Linux
 ## 🎓 `Education`
 
 ### **BS Computer Science — University of the Punjab, Lahore**
-**2024 → 2028**
-
 Currently building strong foundations across:
 
 `Data Structures` · `OOP` · `Database Systems` · `Computer Networks` · `Software Engineering` · `Information Security`
@@ -141,55 +138,26 @@ My degree is the foundation.
 
 ### 🫁 COVID-19 Detection using CNN
 **Computer Vision · Deep Learning · Medical Imaging**
-
-An image-classification project exploring CNN-based approaches for distinguishing COVID-19-related chest X-ray imagery from normal cases, with experimentation around multiple deep-learning architectures.
-
-`CNN` `VGG16` `ResNet50` `MobileNetV2` `XGBoost` `Grad-CAM` `LIME`
-
 ---
 
 ### 🧠 ADHD Detection & Prediction
 **Machine Learning · Deep Learning**
-
-A machine-learning project focused on ADHD-related prediction/classification workflows and experimentation with different modelling approaches.
-
-`Python` `Scikit-learn` `TensorFlow/Keras` `Pandas` `NumPy`
-
 ---
 
 ### ✍️ Text Prediction using LSTM
 **NLP · Sequence Modelling · Deep Learning**
-
-Exploring sequence modelling with recurrent neural networks and LSTM architectures for text prediction.
-
-`Python` `TensorFlow/Keras` `NLP` `LSTM`
-
 ---
 
 ### 🔁 Sequence Prediction using RNN
 **Deep Learning · Sequential Data**
-
-An experimental project focused on understanding how recurrent architectures learn patterns from sequential data.
-
-`RNN` `Sequence Modelling` `TensorFlow`
-
 ---
 
 ### 🧬 Transfer Learning Experiments
 **Computer Vision · Model Reuse**
-
-Hands-on experimentation with pretrained architectures to understand transfer learning, feature extraction, and model adaptation.
-
-`VGG16` `ResNet50` `Transfer Learning`
-
 ---
 
 ### 🔎 Explainable AI
 **Model Interpretability · Computer Vision**
-
-Experiments with visual explanation techniques for understanding what deep-learning models focus on when making predictions.
-
-`Grad-CAM` `LIME` `CNN`
 
 ---
 
@@ -212,61 +180,6 @@ This was a collaborative Team Trojan project; I do not claim sole ownership of t
 <a href="https://github.com/trojan-pk/BolKhata">
   <img src="https://img.shields.io/badge/VIEW%20BOLKHATA-181717?style=for-the-badge&logo=github&logoColor=white" alt="BolKhata repository">
 </a>
-
----
-
-# 💼 `Experience`
-
-### **AI/ML Lead — Spurvance Labs**
-`June 2026 → Present`
-
-- Lead and guide AI/ML interns through technical project work.
-- Break larger AI/ML objectives into practical tasks and responsibilities.
-- Coordinate progress, provide technical direction, and maintain team communication.
-- Help interns move from concepts toward implementation and project delivery.
-
-### **AI/ML Intern — FlyRank**
-`July 2026 → August 2026`
-
-Hands-on exposure to machine-learning engineering workflows, experimentation, implementation, and collaborative development.
-
----
-
-# 📚 `Certifications & Training`
-
-- **Artificial Intelligence & Full-Stack Machine Learning with Data Science** — Micro Tech Solutions
-- **Cybersecurity 2 — Penetration Testing** — Bano Qabil
-- **AI, Cybersecurity & Ethical Hacking** — PFTP
-- **Web Development** — NAVTTC
-- **SEO / Digital Marketing / WordPress / Freelancing** — DigiSkills
-
----
-
-# 🧭 `The Roadmap`
-
-```text
-2024 ─────────────── 2026 ─────────────── 2028 ────────────────►
-
-   CS Foundations          AI + Engineering          Product Engineering
-        │                         │                         │
-        ├─ Programming            ├─ Machine Learning       ├─ Full-Stack AI
-        ├─ OOP                   ├─ Deep Learning          ├─ AI Systems
-        ├─ DSA                   ├─ Computer Vision        ├─ Production Apps
-        ├─ DBMS                  ├─ NLP                    ├─ Cybersecurity
-        ├─ Networks              ├─ RNN / LSTM             └─ Startup Building
-        └─ Software Eng.         └─ XAI
-```
-
-### `Next`
-
-- Build and publish stronger AI/ML projects
-- Deepen full-stack web development
-- Strengthen software engineering fundamentals
-- Explore AI agents and intelligent automation
-- Expand cybersecurity skills
-- Learn to deploy AI systems as real products
-- Contribute to open source
-- Build products around real-world problems
 
 ---
 
